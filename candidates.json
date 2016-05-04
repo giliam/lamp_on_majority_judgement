@@ -1,0 +1,8 @@
+{
+    "Bob": ["Bob", ["extremeRightWing"]],
+    "Lili": ["Lili", ["leftWing"]],
+    "Jack": ["Jack", ["center"]],
+    "Francis": ["Francis", ["center"]],
+    "Lea": ["Lea", ["rightWing"]],
+    "Jane": ["Jane", ["extremeRightWing"]]
+}
